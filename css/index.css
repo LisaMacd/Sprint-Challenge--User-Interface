@@ -89,6 +89,10 @@ p {
     color: black;
 }
 
+header .top-content-img {
+    margin-bottom: 20px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
