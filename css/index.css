@@ -79,11 +79,14 @@ p {
 }
 
 .navigation .logo {
-    margin-right: 40px;
+    margin-right: 50px;
 }
 
 .navigation nav a {
     text-decoration: none;
+    margin-right: 75px;
+    font-size: 13px;
+    color: black;
 }
 
 .top-content {
