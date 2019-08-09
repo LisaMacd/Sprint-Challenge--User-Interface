@@ -118,3 +118,8 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+#Initial Commit
+
+Lisa Meyer - ( 5:45 am - 8:45 Central Daylight Time)
+
