@@ -248,6 +248,56 @@ header .top-content-img {
     padding-right: 0;
 }
 
+/* About Page */
+
+/* Header */
+
+.text-header-about {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.text-header-about p {
+    margin-bottom: 20px;
+}
+
+.text-header-about-border {
+    border-bottom: 1px dashed black;
+}
+
+/* middle-content-about */
+
+.middle-content-about {
+   
+}
+
+.middle-content-about-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about-box-img img {
+    width:350px;
+}
+
+.middle-content-about-boxes-box {
+    width: 350px;
+    height: 400px;
+    margin: 20px 2.5%;
+    color: black;
+}
+
+/* bottom-content-about */
+
+.bottom-content-about {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* footer */
+
 footer {
     width: 100%;
     background: black;
