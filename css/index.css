@@ -279,6 +279,7 @@ header .top-content-img {
 }
 
 .about-box-img img {
+    margin-bottom: 20px;
     width:350px;
 }
 
@@ -287,12 +288,13 @@ header .top-content-img {
     height: 400px;
     margin: 20px 2.5%;
     color: black;
+    border-bottom: 1px dashed black;
 }
 
 /* bottom-content-about */
 
 .bottom-content-about {
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
